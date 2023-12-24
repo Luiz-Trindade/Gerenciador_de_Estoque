@@ -2,6 +2,13 @@
 
 # Gerenciador de Estoque - Versão 1.9-beta
 
+<image src="screenshots/adicionar.png">
+<image src="screenshots/visualizar.png">
+<image src="screenshots/remover.png">
+<image src="screenshots/alterar.png">
+<image src="screenshots/database.png">
+<image src="screenshots/sobre.png">
+
 ## Descrição
 O **Gerenciador de Estoque** é uma ferramenta simples para o controle eficiente de produtos em estoque. Desenvolvido por Luiz Gabriel Magalhães Trindade, estudante de Ciência da Computação, o software oferece funcionalidades essenciais, como adição, visualização, alteração e remoção de produtos do estoque.
 
