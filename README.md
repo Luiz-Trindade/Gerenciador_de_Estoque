@@ -48,10 +48,10 @@ Este programa é distribuído sob a [Licença MIT](https://mit-license.org/), qu
 - **Licença:** [MIT License](https://mit-license.org/)
 
 ## Doação via PIX
-![Doação PIX](dev_pix.png)
+<image src="_internal/dev_pix.png">
 
 ## Licença MIT via QRCODE
-![Licença MIT](MIT_LICENSE_QRCODE.png)
+<image src="_internal/MIT_LICENSE_QRCODE.png">
 
 ---
 
