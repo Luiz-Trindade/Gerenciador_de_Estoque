@@ -52,6 +52,9 @@ tab5 = tabview.add("Banco de dados")
 tab6 = tabview.add("Sobre")
 
 estoque_icon = PI(file="_internal/estoque_icon.png")
+#Set the app icon
+app.iconphoto(False, estoque_icon)
+
 MIT_LICENSE_QRCODE = PI(file="_internal/MIT_LICENSE_QRCODE.png")
 dev_pix = PI(file="_internal/dev_pix.png")
 
